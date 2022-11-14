@@ -17,7 +17,7 @@ For kibana - ip@address of server:5601
 For elastiseach – ip@address of server:9201
 Hit at browser.
 
-#Step 5] When kibana running please do following configuration for setup kibana dashboard
+# Step 5] When kibana running please do following configuration for setup kibana dashboard
 -->	Go to the management 
 --> In management , click at Index pattern 
 --> Create Index Pattern
